@@ -12,7 +12,9 @@ Analysis and Challenges:
 
 Analysis of Outcomes Based on Launch Date
 Launching a Kickstarter campaign in May for a play is the ideal month as there is over 2x more successful launches in May than failures.  May is also the month where the most Kickstarter projects are launched.
+ https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Launch_Date.png
  https://github.com/tessiertodd/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
+
 
 Analysis of Outcomes Based on Goals
 The most successful outcomes based on goals are those that are less than $5,000 (2 groups included with less than $1,000 slightly higher) with over 70% success rate.  A key challenge is those are really small budgets to put on a play.  At a higher budget, the most successful goals are $35,000 to $45,000 (2 groups included as both very similar success rate) at just over 66% success.
