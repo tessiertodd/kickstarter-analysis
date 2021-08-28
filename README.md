@@ -25,11 +25,11 @@ The most successful outcomes based on goals are those that are less than $5,000 
 
 
 ### Challenges and Difficulties Encountered ###
-Outcomes Based on Launch Date – not so much a challenge, but interesting learning that even through I selected a date column (Date Created Conversion) that was an actual date, the pivot table put in year, quarter and month… but not the actual date.  That was helpful, but also interesting.  I just moved the year and quarter out as I only needed to see month.
+**Outcomes Based on Launch Date** – not so much a challenge, but interesting learning that even through I selected a date column (Date Created Conversion) that was an actual date, the pivot table put in year, quarter and month… but not the actual date.  That was helpful, but also interesting.  I just moved the year and quarter out as I only needed to see month.
 
-Outcomes Based on Goals - while I had used SUMIFS in the past, I had not used COUNTIFS… but approach the same.  At first, I had assumed I could only have two sets of criteria so was not sure how to filter on plays and get into the right grouping of number of successes so I had taken an alternate approach (tab: “Outcomes Based on Goals v2” which is hidden).
+**Outcomes Based on Goals** - while I had used SUMIFS in the past, I had not used COUNTIFS… but approach the same.  At first, I had assumed I could only have two sets of criteria so was not sure how to filter on plays and get into the right grouping of number of successes so I had taken an alternate approach (tab: “Outcomes Based on Goals v2” which is hidden).
 
-Other challenges – the parent category “theater” (used in Outcomes Based on Launch Date) and sub-category “plays” (used in Outcomes Based on Goals) are both still pretty broad – we may want to look at further segmentations to help client get even more relevant insight about their specific play (ie. type of play, country, number of backers).  One other challenge that may change some of the groupings in Outcomes Based on Goals is the currency (different currencies in different countries)… typically important when comparing financial information that different currencies are translated to one for comparability.
+**Other challenges** – the parent category “theater” (used in Outcomes Based on Launch Date) and sub-category “plays” (used in Outcomes Based on Goals) are both still pretty broad – we may want to look at further segmentations to help client get even more relevant insight about their specific play (ie. type of play, country, number of backers).  One other challenge that may change some of the groupings in Outcomes Based on Goals is the currency (different currencies in different countries)… typically important when comparing financial information that different currencies are translated to one for comparability.
 
 
 ## Results: ##
