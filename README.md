@@ -1,4 +1,4 @@
-### Kickstarter Campaign Overview
+# Kickstarter Campaign Overview #
 
 ## Overview of Project:
 The objective of this project is to provide insight to our client (Louise) on the factors driving the successes and challenges of other Kickstarter projects.
