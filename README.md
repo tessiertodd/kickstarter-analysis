@@ -12,13 +12,17 @@ Client is looking to fund a play through Kickstarter and wants to understand oth
 
 ### Analysis of Outcomes Based on Launch Date ###
 Launching a Kickstarter campaign in May for a play is the ideal month as there is over 2x more successful launches in May than failures.  May is also the month where the most Kickstarter projects are launched.
- [Table_Launch_Date](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Launch_Date.png) | 
- [Theater_Outcomes_vs_Launch](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
+![Table_Launch_Date](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Launch_Date.png)
+![Theater_Outcomes_vs_Launch](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals ###
 The most successful outcomes based on goals are those that are less than $5,000 (2 groups included with less than $1,000 slightly higher) with over 70% success rate.  A key challenge is those are really small budgets to put on a play.  At a higher budget, the most successful goals are $35,000 to $45,000 (2 groups included as both very similar success rate) at just over 66% success.
- 
+
+![Table_Goals](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Goals.png)
+![Outcomes_vs_Goals](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+
 
 ### Challenges and Difficulties Encountered ###
 Outcomes Based on Launch Date – not so much a challenge, but interesting learning that even through I selected a date column (Date Created Conversion) that was an actual date, the pivot table put in year, quarter and month… but not the actual date.  That was helpful, but also interesting.  I just moved the year and quarter out as I only needed to see month.
