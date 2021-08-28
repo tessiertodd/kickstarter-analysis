@@ -12,8 +12,8 @@ Client is looking to fund a play through Kickstarter and wants to understand oth
 
 ### Analysis of Outcomes Based on Launch Date ###
 Launching a Kickstarter campaign in May for a play is the ideal month as there is over 2x more successful launches in May than failures.  May is also the month where the most Kickstarter projects are launched.
- https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Launch_Date.png
- https://github.com/tessiertodd/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
+ [Table_Launch_Date](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Table_Launch_Date.png) | 
+ [Theater_Outcomes_vs_Launch](https://github.com/tessiertodd/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals ###
@@ -49,4 +49,4 @@ What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 
 ## Recommendation: ##
-I would recommend that client look to launch the campaign for the play in May with an objective between $30,000 to $44,999 (providing budget required is in that range) to help improve the chance for success with the campaign while ensure that the play is properly funded and is a positive endeavor.
+I would recommend that client look to launch the campaign for the play in May with an objective between $30,000 to $44,999 (providing budget required is in that range) to help improve the chance for success with the campaign while ensure that the play is properly funded and is a positive project.
